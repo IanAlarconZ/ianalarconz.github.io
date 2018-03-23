@@ -26,4 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
